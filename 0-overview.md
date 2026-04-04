@@ -53,8 +53,6 @@
 - 現代のOSの整理
 - UNIXという名前とLinuxの立ち位置
 
-
-
 # Phase1 Webの全体像
 ## 目的
 Webアプリの全体構造を理解する。
@@ -71,7 +69,7 @@ Browser → HTTP → Web Server → Application → DB
 - APIサーバの役割
 
 ## Phase2 Dockerによる開発環境
-目的
+## 目的
 
 再現可能な開発環境を作る。
 
@@ -399,3 +397,4 @@ Redis
 認証
 
 Keycloak
+
